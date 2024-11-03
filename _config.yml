@@ -1,3 +1,20 @@
-title: "Your Website Title"
-description: "A description of your site"
+title: "Jose Luis Flores"
+description: "Aspiring Data Science, and Math/Computer Science Tutor"
+# Website settings
+
+# Theme
 theme: jekyll-theme-cayman
+
+# Social links
+social_links:
+  - name: GitHub
+    url: https://github.com/LuisF1238
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/your-username
+
+# Optional: Custom variables for site navigation
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - blog.md
