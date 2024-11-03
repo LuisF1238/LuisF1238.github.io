@@ -16,6 +16,6 @@ In my free time, I enjoy **powerlifting** and continuously challenging myself bo
 
 ## Volunteering
 I am also a volunteer tutor for my local community. I offer free tutoring sessions for students from 8 to 12, which you can sign up for below.
-{Schedule an appointment] (https://docs.google.com/forms/d/e/1FAIpQLSd1rF5LPjOXTrUa49uipOUBAHnweVOT-RaY43YFupX0FUDXiA/viewform).
+[Schedule an appointment](https://docs.google.com/forms/d/e/1FAIpQLSd1rF5LPjOXTrUa49uipOUBAHnweVOT-RaY43YFupX0FUDXiA/viewform).
 
 [Check out my projects](projects.md) or [connect with me on LinkedIn](https://www.linkedin.com/in/jose-luis-flores-645a1425a).
