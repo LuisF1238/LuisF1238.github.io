@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Jose Luis Flores
 ---
 
 # Welcome to My Website
