@@ -4,6 +4,7 @@ description: "Aspiring Data Science, and Math/Computer Science Tutor"
 
 # Theme
 theme: jekyll-theme-cayman
+custom_css: style.css
 
 # Social links
 social_links:
