@@ -1,1 +1,3 @@
-theme: Millennial
+title: "Your Website Title"
+description: "A description of your site"
+theme: jekyll-theme-cayman
