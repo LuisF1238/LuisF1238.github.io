@@ -14,5 +14,5 @@ In my free time, I enjoy **powerlifting** and continuously challenging myself bo
 - Computer Science (Algorithms, Data Structures)
 - Calculus and Statistics
 
-[Check out my projects](projects.md) or [visit my blog](blog.md) for more insights.
+[Check out my projects](projects.md) or [visit my Linked In]([linked](https://www.linkedin.com/in/jose-luis-flores-645a1425a/)) for more insights.
 
