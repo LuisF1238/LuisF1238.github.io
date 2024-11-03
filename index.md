@@ -15,4 +15,4 @@ In my free time, I enjoy **powerlifting** and continuously mentally and physical
 - Calculus and Statistics
 
 
-[Check out my projects](projects.md) or [connect with me on LinkedIn](https://www.linkedin.com/in/jose-luis-flores-645a1425a).
+[Check out my projects](projects.md) or [connect with me on LinkedIn](https://docs.google.com/forms/d/1Twyov_sr92JYjJIXzWXpibRuPGQhlNIb-8ZPB8Pg9fw/edit).
