@@ -3,7 +3,6 @@ layout: default
 title: Jose Luis Flores
 ---
 
-# Welcome to My Website
 
 Hello! I'm **Jose Luis Flores**, a college student and aspiring data scientist. I currently work as a tutor in computer science, calculus, and statistics. My passions include exploring data-driven solutions and applying insights to real-world problems.
 
